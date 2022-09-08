@@ -15,10 +15,21 @@ It was realised by using Canvas technology, HTML, CSS and all the logic made wit
 It is a video game with two kinds of enemies, a main character, shots, sounds, movements, scenery, lives and points. All made with different graphics, movements, collisions and DOM management.
 </p>
 
+---
+
 <!--LINK-->
 <div id="link" align="center">
 <img src="https://i.postimg.cc/pXv1StzD/Bob-Sponge-home.jpg" width="400" height="210"/></a>
+</div>
 
 <br>
-:ocean: **Here you can try it, do not hesitate about it!!**: https://rafasanzvi.github.io/SpongeBobGame/ :ocean:
-</div>
+
+<div id="description2" align="center">
+  :ocean:Here you can try it, do not hesitate about it!!:ocean: 
+</div>  
+
+<br>
+
+<div id="link" align="center">
+https://rafasanzvi.github.io/SpongeBobGame/
+</div>  
