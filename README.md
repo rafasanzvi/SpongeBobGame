@@ -5,9 +5,11 @@
 </div>
 
 <!--DESCRIPTION-->
-<h3 align="center">
+<p>
  A refreshing and addictive arcade game based on the children's series SpongeBob SquarePants, made for kids and not so kids, where you can have a good time and have a few laughs while earning points from the bottom of the sea.
+  
 This project was done in just **1 week** as part of our web development Bootcamp assignments at **Ironhack**. 
+  
 It was realised by using Canvas technology, HTML, CSS and all the logic made with Javascript.
 It is a video game with two kinds of enemies, a main character, shots, sounds, movements, scenery, lives and points. All made with different graphics, movements, collisions and DOM management.
-</h3>
+</p>
