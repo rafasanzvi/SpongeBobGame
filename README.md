@@ -16,7 +16,7 @@ It is a video game with two kinds of enemies, a main character, shots, sounds, m
 </p>
 
 ---
-
+<br>
 <!--LINK-->
 <div id="link" align="center">
 <img src="https://i.postimg.cc/pXv1StzD/Bob-Sponge-home.jpg" width="400" height="210"/></a>
@@ -24,12 +24,5 @@ It is a video game with two kinds of enemies, a main character, shots, sounds, m
 
 <br>
 
-<div id="description2" align="center">
-  :ocean:Here you can try it, do not hesitate about it!!:ocean: 
-</div>  
-
-<br>
-
-<div id="link" align="center">
-https://rafasanzvi.github.io/SpongeBobGame/
-</div>  
+<h3 align="center"> :ocean: Here you can try it, do not hesitate about it!! <a href="https://rafasanzvi.github.io/SpongeBobGame/">Click here</a> :ocean: </h3> 
+ 
