@@ -3,7 +3,7 @@
   <h1 align="center">Sponge Bob Game</h1>
   <img src="https://media.giphy.com/media/Nfg4l6AYarCBG/giphy.gif" width="350" />
 </div>
-
+<br>
 <!--DESCRIPTION-->
 <p>
  A refreshing and addictive arcade game based on the children's series SpongeBob SquarePants, made for kids and not so kids, where you can have a good time and have a few laughs while earning points from the bottom of the sea.
