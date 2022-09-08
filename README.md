@@ -19,5 +19,6 @@ It is a video game with two kinds of enemies, a main character, shots, sounds, m
 <div id="link" align="center">
 <img src="https://i.postimg.cc/pXv1StzD/Bob-Sponge-home.jpg" width="400" height="210"/></a>
 
-**Here you can try it, do not hesitate about it!!**: https://rafasanzvi.github.io/SpongeBobGame/ 
+<br>
+:ocean: **Here you can try it, do not hesitate about it!!**: https://rafasanzvi.github.io/SpongeBobGame/ :ocean:
 </div>
